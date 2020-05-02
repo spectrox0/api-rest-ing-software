@@ -1,0 +1,8 @@
+{
+  "env": {
+    "CREDENTIALS_JWT": "avDVIZbbiEqvbTxU",
+    "MONGO_DB": "test",
+    "MONGO_PASSWORD": "avDVIZbbiEqvbTxU",
+    "MONGO_USER": "spec"
+  }
+}
